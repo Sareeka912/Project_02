@@ -15,6 +15,8 @@ Bar Chart: Revenue by Recency
 
 Shows the relationship between the number of days since the last purchase and revenue.
 
+
+
 Pie Chart: Purchases by Channel
 
 Displays the distribution of purchases made through web, catalog, and store channels.
@@ -39,3 +41,8 @@ Analyze Patterns: Identify patterns and trends in customer behavior, spending, a
 Conclusion
 
 The marketing campaign dashboard provides valuable insights into customer behavior, spending patterns, and campaign performance. By important Power BI's interactive features, businesses can make data-driven decisions to optimize marketing strategies, improve customer engagement, and increase profitability.
+
+
+Project demo Link 
+
+https://drive.google.com/file/d/1izjTrK1umC5whpISZjuIpA6LmaSdgh0y/view?usp=sharing
